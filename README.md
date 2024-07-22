@@ -24,7 +24,7 @@ I'm new to coding and would like to gain and enhance my knowledge and skills.I t
 [View LinkedIn Profile](https://www.linkedin.com/in/pragati-yadav-876240319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## instagram handle
-![Instagram](https://www.instagram.com/itznotpragati?igsh=ZTZuZWFlYTN5dncw)
+![Instagram](https://www.instagram.com/itznotpragati?igsh=NDR4Mm1tM25sNTFo)
 
 ## Blog Posts 
 [View my Blogs](my_experience/readme.md)
