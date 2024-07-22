@@ -1,7 +1,8 @@
 # profile
 All about myself 
 
-![Image]()
+![Image](https://www.canva.com/design/DAGLpsq9WR0/o80RdijVZyU389woDTak6w/edit?utm_content=DAGLpsq9WR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Personal Information
 - **Name** : pragati 
 - **Age** : 17
