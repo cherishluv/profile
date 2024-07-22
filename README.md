@@ -14,6 +14,12 @@ I'm new to coding and would like to gain and enhance my knowledge and skills.I t
 ## excel certificate 
 ![certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/5046776/original/Pragati_yadav20240721-75-15swme2.jpg)
 
+## canva certificates 
+
+![canva](https://i.imghippo.com/files/ro8Ez1721658822.jpg)
+
+![canva](https://i.imghippo.com/files/Yebq51721658670.jpg)
+
 ## LinkedIn Profile
 [View LinkedIn Profile](https://www.linkedin.com/in/pragati-yadav-876240319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
