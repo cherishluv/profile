@@ -5,7 +5,7 @@ All about myself
 - **Education** : B.Tech in computer science   (CS)
 - **Location** : Vill.thakkarwal ,pakhowal road , Ludhiana
 
-![Image](
+![Image](https://i.imghippo.com/files/2TX4j1721633801.jpg)
 
 # My coding journey
 
