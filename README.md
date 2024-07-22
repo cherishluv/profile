@@ -6,14 +6,11 @@ All about myself
 - **Name** : pragati 
 - **Age** : 17
 - **Education** : B.Tech in computer science   (CS)
-- **Location** : Vill.thakkarwal ,pakhowal road , Ludhiana 
+- **Location** : Vill.thakkarwal ,pakhowal road , Ludhiana
 
-### Programming Languages i know :
-- python
+- # My coding journey
 
-### Database Management:
-- **MySQL**: Experienced in using SQL for database operations, including data storage, retrieval, and management.
-
+ I'm new to coding and would like to gain and enhance my knowledge and skills.I took Informatics practices as my optional subject in class 11th .so i just have knowledge of networking, web development, data frames, database queries, Python programming, data structures in pandas, and project management and some basic concepts of computer programming (Java or Python).
 
 ## excel certificate 
 ![certificate](https://www.mygreatlearning.com/certificate/WOTKNKEI)
