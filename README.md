@@ -26,8 +26,12 @@ I'm new to coding and would like to gain and enhance my knowledge and skills.I t
 ## instagram handle
 ![Instagram](https://www.instagram.com/itznotpragati?igsh=NDR4Mm1tM25sNTFo)
 
-## Blog Posts 
-[View my Blogs](my_experience/readme.md)
+## courses completed 
+[View my Blogs](README.md)
+
+## college blog
+![college](README.md)
+
 
 ## Contact Details
 - **Email** : pragati06@gmail.com
